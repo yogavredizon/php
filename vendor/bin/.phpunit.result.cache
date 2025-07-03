@@ -1,1 +1,0 @@
-{"version":1,"defects":{"DBTest::testConnecToDB":3,"DBTest::testConnectToDB":3,"DBTest::testAddProduct":4,"ProductTest::testAddProduct":5},"times":{"DBTest::testConnecToDB":0.087,"DBTest::testConnectToDB":0.015,"DBTest::testAddProduct":0.001,"ProductTest::testAddProduct":0.019}}
