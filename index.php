@@ -34,6 +34,8 @@ $salesPrediction = $seller->PredictSales($values);
     <header>
         <h1>Manajemen Warehouse</h1>
     </header>
+    <p>Data Penjualan</p>
+    <p>O</p>
     <p>Prediksi Penjualan : <?= $salesPrediction ?></p>
     <nav>
         <ul>
